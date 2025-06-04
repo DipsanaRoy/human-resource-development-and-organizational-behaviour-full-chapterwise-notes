@@ -65,8 +65,6 @@ You're free to use, share, and remix — just don't sell it! 💖
 
 ### b) Personality Determinants and Traits
 
----
-
 #### 🔹 **Determinants** = *“What shapes your personality”*
 
 Think of it as the **ingredients** that make you *you*.
@@ -74,8 +72,6 @@ Think of it as the **ingredients** that make you *you*.
 1. **Heredity** – From your genes. Example: natural temperament or intelligence.
 2. **Environment** – Family, culture, school, society. All that affects your growth.
 3. **Situation** – How you act can depend on the moment. Example: You're chill at home but serious in class.
-
----
 
 #### 🔹 **Traits** = *“Your permanent personality features”*
 
@@ -171,19 +167,22 @@ It’s a sign of job satisfaction or dissatisfaction.
 
 ## 1. Perception
 
-**a) Definition, Nature & Importance**
+### a) Definition, Nature & Importance**
+
 🔹 *Definition:* Perception is how we interpret and understand sensory info (what we see, hear, feel).
 🔹 *Nature:* It’s subjective — everyone sees things differently!
 🔹 *Importance:* Affects how people behave, judge others, and make decisions in the workplace.
 
-**b) Factors Influencing Perception**
+### b) Factors Influencing Perception
+
 🧠 Influenced by:
 
 * **Personal factors** – past experiences, motives, mood, personality
 * **Target factors** – what you’re looking at (size, color, motion)
 * **Situational factors** – time, place, work setting
 
-**c) Perceptual Selectivity**
+### c) Perceptual Selectivity
+
 👀 We *choose* what to notice (can’t focus on everything!)
 Depends on:
 
@@ -194,7 +193,8 @@ Depends on:
     ➡ *Example:* A person in neon pink in a room full of people in black.
 * **Personal interest**
 
-**d) Link between Perception & Decision Making**
+### d) Link between Perception & Decision Making
+
 ⚡ Perception shapes how you see a problem → affects your decision.
 Example: If you *perceive* someone as lazy (even wrongly), you may not trust their ideas.
 ➡ Bad perception = bad decision-making
