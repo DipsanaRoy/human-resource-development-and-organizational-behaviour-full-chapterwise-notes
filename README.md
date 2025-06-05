@@ -271,8 +271,10 @@ Example: If you *perceive* someone as lazy (even wrongly), you may not trust the
 * Work conditions 🏢
 * Job security 🔐
 * Supervision 👨‍💼
-  ➡ If any of these are bad → dissatisfaction
-  ➡ But even if they’re good → not *super* motivated
+
+➡ If any of these are bad → dissatisfaction
+
+➡ But even if they’re good → not *super* motivated
 
 ---
 
