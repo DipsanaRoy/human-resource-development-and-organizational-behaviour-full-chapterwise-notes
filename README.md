@@ -23,6 +23,7 @@ You're free to use, share, and remix — just don't sell it! 💖
 ### a) Definition and Importance
 
 🔹 *Definition:* OB is the study of how people behave in organizations — individually and in groups.
+
 🔹 *Importance:*
 
 * Improves employee performance
@@ -48,10 +49,15 @@ You're free to use, share, and remix — just don't sell it! 💖
 ### d) Challenges and Opportunities for OB
 
 🔸 Managing workforce diversity
+
 🔸 Improving quality & productivity
+
 🔸 Coping with globalization
+
 🔸 Working in teams
+
 🔸 Managing change & innovation
+
 🔸 Improving ethical behavior
 
 ---
@@ -77,57 +83,64 @@ Think of it as the **ingredients** that make you *you*.
 
 These are **stable behaviors** or **ways of thinking** you often show.
 
----
-
 Here come the **Big Five Personality Traits** — super simple and with examples:
+
+---
 
 🌟 **1. Openness to Experience**
 
-**Meaning:** You love trying new things, being creative, open to ideas.
-**High:** Curious, imaginative
-**Low:** Practical, prefers routine
+* **Meaning:** You love trying new things, being creative, open to ideas.
+* **High:** Curious, imaginative
+* **Low:** Practical, prefers routine
+
 👉 *Example:* You love exploring new tech, games, or coding styles? High Openness!
 
 ---
 
 📋 **2. Conscientiousness**
 
-**Meaning:** How disciplined and organized you are.
-**High:** Responsible, hardworking, detail-oriented
-**Low:** Lazy, careless, unorganized
+* **Meaning:** How disciplined and organized you are.
+* **High:** Responsible, hardworking, detail-oriented
+* **Low:** Lazy, careless, unorganized
+
 👉 *Example:* If you plan your study schedule & meet deadlines – you’re high here!
 
 ---
 
 🗣️ **3. Extraversion**
 
-**Meaning:** How outgoing or social you are.
-**High:** Talkative, energetic, loves social settings
-**Low:** Reserved, quiet, prefers being alone
+* **Meaning:** How outgoing or social you are.
+* **High:** Talkative, energetic, loves social settings
+* **Low:** Reserved, quiet, prefers being alone
+
 👉 *Example:* Love group projects and chatting a lot? Extravert!
 
 ---
 
 🤝 **4. Agreeableness**
 
-**Meaning:** How kind, cooperative, and trusting you are.
-**High:** Friendly, helpful, empathetic
-**Low:** Critical, rude, selfish
+* **Meaning:** How kind, cooperative, and trusting you are.
+* **High:** Friendly, helpful, empathetic
+* **Low:** Critical, rude, selfish
+
 👉 *Example:* Always ready to help friends with code? That’s agreeableness!
 
 ---
 
 😰 **5. Neuroticism**
 
-**Meaning:** Emotional stability – how much you handle stress.
-**High:** Anxious, moody, easily upset
-**Low:** Calm, stable, chill
+* **Meaning:** Emotional stability – how much you handle stress.
+* **High:** Anxious, moody, easily upset
+* **Low:** Calm, stable, chill
+
 👉 *Example:* Panic before exams = High neuroticism. Cool even in pressure? Low.
 
 ---
 
 So:
+
 ➡ **Determinants = What creates personality**
+
 ➡ **Traits = What personality looks like**
 
 ---
@@ -152,7 +165,8 @@ So:
 * Relationships
 * Growth opportunities
 * Job security
-  High satisfaction → better performance, low turnover
+  
+📌 High satisfaction → better performance, low turnover
 
 #### 🔄 **Turnover** = People **leaving** a company (resignation/quit)
 
@@ -170,7 +184,9 @@ It’s a sign of job satisfaction or dissatisfaction.
 ### a) Definition, Nature & Importance**
 
 🔹 *Definition:* Perception is how we interpret and understand sensory info (what we see, hear, feel).
+
 🔹 *Nature:* It’s subjective — everyone sees things differently!
+
 🔹 *Importance:* Affects how people behave, judge others, and make decisions in the workplace.
 
 ### b) Factors Influencing Perception
@@ -188,15 +204,21 @@ Depends on:
 
 * **Intensity** (loud sound catches attention)
 * 🔁 **Repetition:** If you see or hear something again and again, your brain starts noticing it more.
+
     ➡ *Example:* An ad jingle playing 10 times – now you can't forget it!
+
 * 🎨 **Contrast:** Things that are *different* or *stand out* catch your eye.
+
     ➡ *Example:* A person in neon pink in a room full of people in black.
+
 * **Personal interest**
 
 ### d) Link between Perception & Decision Making
 
 ⚡ Perception shapes how you see a problem → affects your decision.
+
 Example: If you *perceive* someone as lazy (even wrongly), you may not trust their ideas.
+
 ➡ Bad perception = bad decision-making
 
 ---
@@ -266,7 +288,8 @@ Example: If you *perceive* someone as lazy (even wrongly), you may not trust the
 * Responsibility 💼
 * Growth & promotion 📈
 * Meaningful work 💡
-  ➡ These make people feel **excited**, proud, and engaged
+
+➡ These make people feel **excited**, proud, and engaged
 
 ---
 
@@ -275,8 +298,11 @@ Example: If you *perceive* someone as lazy (even wrongly), you may not trust the
 Think of a video game 🎮
 
 * **Hygiene factors = Game settings** (smooth controls, no lag)
+  
   → If broken, you rage quit 😤
+
 * **Motivators = Winning levels, unlocking rewards**
+
   → That’s what keeps you playing 🔥
 
 ---
@@ -284,6 +310,7 @@ Think of a video game 🎮
 So Herzberg says:
 
 > ✅ Fix hygiene first → so people aren’t unhappy
+>
 > ✅ Then add motivators → so people feel truly driven
 
 ---
@@ -295,7 +322,8 @@ Simplified Maslow into 3:
 * **Existence** – basic needs
 * **Relatedness** – relationships
 * **Growth** – personal development
-  💡 Unlike Maslow, needs can overlap.
+
+💡 Unlike Maslow, needs can overlap.
 
 ---
 
@@ -306,6 +334,7 @@ Focuses on 3 key needs:
 1. **Achievement** – Desire to succeed
 2. **Power** – Control, influence others
 3. **Affiliation** – Friendly relationships
+
    ➡ Different people are motivated by different needs.
 
 ---
@@ -349,7 +378,6 @@ BUT if even one is zero...
 ## 🔁 **Quick One-Line Memory Hooks (All Theories)**
 
 1. **Maslow's Hierarchy:**
-   ➡ Climb the pyramid: *Food → Safety → Friends → Respect → Growth*
 
     > **Legendary Line:** *Phsy socializes safely ento sea* 🧜‍♀️🌊
     > Breakdown:
@@ -360,6 +388,8 @@ BUT if even one is zero...
     * **Ento** = Esteem
     * **Sea** = Self-Actualization
 
+   ➡ Climb the pyramid: *Food → Safety → Friends → Respect → Growth*
+
 2. **McGregor:**
    **McGregor’s Theory = Mewtwo’s dual forms** —
 
@@ -369,16 +399,22 @@ BUT if even one is zero...
    ➡ *Mewtwo X = control, Mewtwo Y = support*
 
 3. **Herzberg:**
+
    ➡ *No motivators = no excitement, no hygiene = complaints!* (Fix both!)
 
 4. **Alderfer’s ERG:**
+
    ➡ *Exist, Relate, Grow* – not always in order.
 
 5. **McClelland:**
+
    ➡ *APA = Achievement, Power, Affiliation* – different strokes for different folks.
 
 6. **Vroom's Expectancy:**
+
    ➡ *Can I × Will I × Do I care = Motivation*
+
+   ➡ *EIV = Expectancy × Instrumentality × Valence = Motivation*
 
 ---
 
@@ -414,6 +450,7 @@ BUT if even one is zero...
 ### d) Group Decision Making
 
 ✅ *Pros:* Diverse ideas, better solutions
+
 ❌ *Cons:* Slower, conflicts, groupthink (people agree just to fit in)
 
 ---
@@ -442,8 +479,11 @@ BUT if even one is zero...
 5. **Decoding** – interprets it
 6. **Feedback** – response
 
-> **Memory line:** `Sender` → `encodes` → `sends via channel` → `receiver` → `decodes` → `feedback happens`
-   ➡ Noise can mess it up anytime!
+> **Memory line:**
+>
+>`Sender` → `encodes` → `sends via channel` → `receiver` → `decodes` → `feedback happens`
+>
+>➡ Noise can mess it up anytime!
 
 ### b) Direction of Communication
 
@@ -459,19 +499,27 @@ BUT if even one is zero...
 ### c) Barriers to Effective Communication
 
 1. **Physical Barriers:**
+
    Noise, Walls, distance, poor equipment
+
    ➡ E.g., Bad mic in a Zoom meeting = miscommunication
 
 2. **Semantic Barriers:**
+
    Confusing words, jargon, unclear language
+
    ➡ Saying “synergy” to someone new to corporate = Misunderstood words
 
 3. **Psychological Barriers:**
+
    Attitude, Emotions, stress, prejudice
+
    ➡ “He never listens to me anyway” → you stop being clear
 
 4. **Organizational Barriers:**
+
    Too many levels of hierarchy, unclear reporting
+
    ➡ Message passes through 4 managers and changes every time!
 
 ---
@@ -494,15 +542,21 @@ Leadership = Influencing and guiding people to achieve goals.
 📌 *Common styles:*
 
 1. **Autocratic Leadership (Bossy):**
+
    🔹 Leader makes all decisions, expects obedience.
+
    ➡ *E.g., Military commander during a crisis*
 
 2. **Democratic Leadership (Participative):**
+
    🔹 Leader involves team in decision-making.
+
    ➡ *E.g., A tech team brainstorming features with their manager*
 
 3. **Laissez-Faire Leadership (Hands-off):**
+
    🔹 Leader gives full freedom, only offers help if asked.
+
    ➡ *E.g., A creative director letting designers work freely*
 
 📌 *In short:*
@@ -598,8 +652,10 @@ Use of power and influence in organizations to get personal or group interests d
 | **Dysfunctional** | Negative, harmful conflict    | Two employees fight over credit and stop cooperating, delaying the whole project. |
 
 💡 **Key Difference:**
-Functional = Healthy tension ➤ Growth
-Dysfunctional = Toxic clash ➤ Damage
+
+* Functional = Healthy tension ➤ Growth
+
+* Dysfunctional = Toxic clash ➤ Damage
 
 ### c) 🎭 **Conflict Process (with mini example)**
 
@@ -618,7 +674,9 @@ Imagine two designers, A and B:
    – B argues with A during a meeting.
 
 5. **Outcome:**
+
    – If they talk it out ➤ Resolved.
+
    If not ➤ More tension next time.
 
 🎭 It's like a story arc: Trigger → Tension → Reaction → Drama → Ending
